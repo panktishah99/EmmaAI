@@ -2,6 +2,8 @@
 
 **Emma** is a voice- and text-enabled AI Therapist that offers private, on-demand emotional support using evidence-based therapeutic techniques. Whether you're anxious, overwhelmed, or simply need to talk, Emma listens — without judgment, without waiting.
 
+Try it here: https://alias-socraitive.vercel.app/
+
 ## 💡 Why Emma?
 
 Millions struggle with mental health support because of:
